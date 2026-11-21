@@ -1,0 +1,25 @@
+{
+  "default": "baseline",
+  "architecture": "deeplabv3_mobilenet_v3_large",
+  "num_classes": 15,
+  "models": {
+    "baseline": {
+      "file": "baseline.pt",
+      "sha256": "2c104ac1933765fad439df29e5556681f5822236253afd12d14252d94a466e91",
+      "source_run": "urban_v1_run01",
+      "source_checkpoint": "best.pt",
+      "training_image_count": 12,
+      "validation_miou_excluding_background": 0.13574497246920547,
+      "status": "default_prototype"
+    },
+    "candidate": {
+      "file": "candidate.pt",
+      "sha256": "d5c2b7490a08634ace3864771ee6b756c57c2178af3517ad4e1dcd5ba4aa8768",
+      "source_run": "urban_v3_run01",
+      "source_checkpoint": "last.pt",
+      "training_image_count": 13,
+      "validation_miou_excluding_background": 0.13356550480644144,
+      "status": "experimental_not_improved_on_validation"
+    }
+  }
+}

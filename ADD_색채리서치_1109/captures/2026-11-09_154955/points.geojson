@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0666904,
+          37.5505796
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0001",
+        "road_name": "송정12나길",
+        "heading": 33.39978601591264,
+        "photo_date_raw": "2026-01-22 11:38:36",
+        "file_path": "captures/2026-11-09_154955/lat_37.550580_lon_127.066690__0001.png",
+        "requested_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0667554,
+          37.5506726
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0002",
+        "road_name": "송정12나길",
+        "heading": 33.399831121494685,
+        "photo_date_raw": "2026-01-22 11:38:16",
+        "file_path": "captures/2026-11-09_154955/lat_37.550673_lon_127.066755__0002.png",
+        "requested_distance_m": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0668274,
+          37.5507576
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0003",
+        "road_name": "송정12나길",
+        "heading": 33.399874146684226,
+        "photo_date_raw": "2026-01-22 11:38:13",
+        "file_path": "captures/2026-11-09_154955/lat_37.550758_lon_127.066827__0003.png",
+        "requested_distance_m": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0668994,
+          37.5508416
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0005",
+        "road_name": "송정12나길",
+        "heading": 33.399917105855366,
+        "photo_date_raw": "2026-01-22 11:38:11",
+        "file_path": "captures/2026-11-09_154955/lat_37.550842_lon_127.066899__0005.png",
+        "requested_distance_m": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0669654,
+          37.5509246
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0006",
+        "road_name": "송정12나길",
+        "heading": 33.399958463467385,
+        "photo_date_raw": "2026-01-22 11:38:08",
+        "file_path": "captures/2026-11-09_154955/lat_37.550925_lon_127.066965__0006.png",
+        "requested_distance_m": 50.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0670324,
+          37.5510096
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0007",
+        "road_name": "송정12나길",
+        "heading": 33.40000042718765,
+        "photo_date_raw": "2026-01-22 11:38:07",
+        "file_path": "captures/2026-11-09_154955/lat_37.551010_lon_127.067032__0007.png",
+        "requested_distance_m": 60.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0670994,
+          37.5510946
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0008",
+        "road_name": "송정12나길",
+        "heading": 33.40004288797962,
+        "photo_date_raw": "2026-01-22 11:38:05",
+        "file_path": "captures/2026-11-09_154955/lat_37.551095_lon_127.067099__0008.png",
+        "requested_distance_m": 70.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0671654,
+          37.5511796
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0009",
+        "road_name": "송정12나길",
+        "heading": 33.40008490742457,
+        "photo_date_raw": "2026-01-22 11:38:03",
+        "file_path": "captures/2026-11-09_154955/lat_37.551180_lon_127.067165__0009.png",
+        "requested_distance_m": 80.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0672324,
+          37.5512576
+        ]
+      },
+      "properties": {
+        "photo_id": "355a8413_0010",
+        "road_name": "송정12나길",
+        "heading": 33.40012473419699,
+        "photo_date_raw": "2026-01-22 11:38:01",
+        "file_path": "captures/2026-11-09_154955/lat_37.551258_lon_127.067232__0010.png",
+        "requested_distance_m": 90.0
+      }
+    }
+  ]
+}

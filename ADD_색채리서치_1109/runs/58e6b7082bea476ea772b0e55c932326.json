@@ -1,0 +1,238 @@
+{
+  "run_id": "58e6b7082bea476ea772b0e55c932326",
+  "tool_version": "1.0.0",
+  "created_at": "2026-11-07T15:22:28+00:00",
+  "updated_at": "2026-11-07T15:22:57+00:00",
+  "status": "complete",
+  "settings": {
+    "interval_m": 10,
+    "views_per_point": 1,
+    "view": "forward",
+    "tilt": 0,
+    "fov": 90.0,
+    "offset": 0.0,
+    "snap": 15.0,
+    "settle": 2500.0
+  },
+  "route": [
+    {
+      "lat": 37.5530271,
+      "lon": 127.06784
+    },
+    {
+      "lat": 37.5523913,
+      "lon": 127.0673358
+    }
+  ],
+  "samples": [
+    {
+      "lat": 37.5530271,
+      "lon": 127.06784,
+      "index": 0,
+      "distance_m": 0.0,
+      "heading": 212.26687672537153
+    },
+    {
+      "lat": 37.55295091424029,
+      "lon": 127.06777958287773,
+      "index": 1,
+      "distance_m": 10.0,
+      "heading": 212.26683984918893
+    },
+    {
+      "lat": 37.55287472844869,
+      "lon": 127.06771916587854,
+      "index": 2,
+      "distance_m": 20.0,
+      "heading": 212.26680309793753
+    },
+    {
+      "lat": 37.55279854262518,
+      "lon": 127.06765874900225,
+      "index": 3,
+      "distance_m": 30.0,
+      "heading": 212.26676617344427
+    },
+    {
+      "lat": 37.552722356769785,
+      "lon": 127.06759833224896,
+      "index": 4,
+      "distance_m": 40.0,
+      "heading": 212.26672915154498
+    },
+    {
+      "lat": 37.55264617088248,
+      "lon": 127.06753791561869,
+      "index": 5,
+      "distance_m": 50.0,
+      "heading": 212.26669243769246
+    },
+    {
+      "lat": 37.55256998496328,
+      "lon": 127.06747749911142,
+      "index": 6,
+      "distance_m": 60.0,
+      "heading": 212.26665546414046
+    },
+    {
+      "lat": 37.552493799012176,
+      "lon": 127.06741708272716,
+      "index": 7,
+      "distance_m": 70.0,
+      "heading": 212.26661874460058
+    },
+    {
+      "lat": 37.55241761302918,
+      "lon": 127.06735666646591,
+      "index": 8,
+      "distance_m": 80.0,
+      "heading": 212.2665820033049
+    }
+  ],
+  "length_m": 83.45378756350426,
+  "label": "",
+  "road_folders": {},
+  "photos": [
+    {
+      "photo_id": "58e6b708_0001",
+      "point_id": "KGHZ--wtfWK1Kk2s9Dzwaw",
+      "run_id": "58e6b7082bea476ea772b0e55c932326",
+      "sample_index": 0,
+      "sequence": 1,
+      "file_path": "captures/2026-11-08_002228/lat_37.553053_lon_127.067865__0001.png",
+      "road_name": "송정18길",
+      "road_name_raw": "송정18길",
+      "road_name_source": "panorama_metadata",
+      "address": "서울 성동구 송정동",
+      "latitude": 37.553053,
+      "longitude": 127.067865,
+      "crs": "EPSG:4326",
+      "requested_latitude": 37.5530271,
+      "requested_longitude": 127.06784,
+      "requested_distance_m": 0.0,
+      "actual_route_distance_m": 0.0,
+      "match_distance_m": 3.6253641512014267,
+      "route_offset_m": 3.6253641514271324,
+      "heading": 212.2668767253715,
+      "tilt": 0.0,
+      "fov": 90.0,
+      "view": "forward",
+      "source": "naver_panorama",
+      "location_source": "provider_panorama_metadata",
+      "pano_id": "KGHZ--wtfWK1Kk2s9Dzwaw",
+      "photo_date_raw": "2026-01-22 10:59:13",
+      "collected_at": "2026-11-07T15:22:45+00:00",
+      "capture_method": "shared_tab_viewport",
+      "width": 1920,
+      "height": 1108,
+      "scene_height": 1080,
+      "scene_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "dom_overlays_included": true,
+      "scene_sha256": "435e26c1d15f58d40554d1907e4b57eb5ca9aeff6ee7cbc8be87ef56db5017be",
+      "review_status": "unreviewed",
+      "attribution": "NAVER Maps",
+      "ai_calls": 0,
+      "sha256": "4ff9712d4c76ec9030ee08c9a4160b7af9ab6994e3fcbff075cff645b60971f8"
+    },
+    {
+      "photo_id": "58e6b708_0008",
+      "point_id": "47Kd4YtYQuzROiZVCptWyQ",
+      "run_id": "58e6b7082bea476ea772b0e55c932326",
+      "sample_index": 7,
+      "sequence": 8,
+      "file_path": "captures/2026-11-08_002228/lat_37.552368_lon_127.067377__0008.png",
+      "road_name": "송정16길",
+      "road_name_raw": "송정16길",
+      "road_name_source": "panorama_metadata",
+      "address": "서울 성동구 송정동",
+      "latitude": 37.552368,
+      "longitude": 127.067377,
+      "crs": "EPSG:4326",
+      "requested_latitude": 37.552493799012176,
+      "requested_longitude": 127.06741708272716,
+      "requested_distance_m": 70.0,
+      "actual_route_distance_m": 83.45378756350426,
+      "match_distance_m": 14.404419529882484,
+      "route_offset_m": 4.465572879051824,
+      "heading": 212.2665765145341,
+      "tilt": 0.0,
+      "fov": 90.0,
+      "view": "forward",
+      "source": "naver_panorama",
+      "location_source": "provider_panorama_metadata",
+      "pano_id": "47Kd4YtYQuzROiZVCptWyQ",
+      "photo_date_raw": "2026-01-22 11:10:18",
+      "collected_at": "2026-11-07T15:22:54+00:00",
+      "capture_method": "shared_tab_viewport",
+      "width": 1920,
+      "height": 1108,
+      "scene_height": 1080,
+      "scene_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "dom_overlays_included": true,
+      "scene_sha256": "a342f11701e8fbe1b4ff63d5e7c4abcfc1e2dd6db24a04f76f28b5e35177f8e4",
+      "review_status": "unreviewed",
+      "attribution": "NAVER Maps",
+      "ai_calls": 0,
+      "sha256": "ba43a427888b9958d919287e3bfc138c6fe95fb624988b9d08f12650c734ef07"
+    }
+  ],
+  "events": [
+    {
+      "index": 1,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "duplicate",
+      "reason": "이미 저장한 파노라마 또는 동일 촬영 위치입니다."
+    },
+    {
+      "index": 2,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "error",
+      "reason": "촬영 위치가 선택한 경로에서 멉니다 (16.5m)."
+    },
+    {
+      "index": 3,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "error",
+      "reason": "촬영 위치가 선택한 경로에서 멉니다 (16.5m)."
+    },
+    {
+      "index": 4,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "error",
+      "reason": "촬영 위치가 선택한 경로에서 멉니다 (18.8m)."
+    },
+    {
+      "index": 5,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "error",
+      "reason": "촬영 위치가 선택한 경로에서 멉니다 (18.1m)."
+    },
+    {
+      "index": 6,
+      "at": "2026-11-07T15:22:48+00:00",
+      "status": "error",
+      "reason": "촬영 위치가 선택한 경로에서 멉니다 (17.6m)."
+    },
+    {
+      "index": 8,
+      "at": "2026-11-07T15:22:56+00:00",
+      "status": "duplicate",
+      "reason": "이미 저장한 파노라마 또는 동일 촬영 위치입니다."
+    }
+  ],
+  "next_index": 9,
+  "ai_calls": 0,
+  "coordinate_reference_system": "EPSG:4326",
+  "capture_folder": "2026-11-08_002228",
+  "finished_at": "2026-11-07T15:22:57+00:00"
+}

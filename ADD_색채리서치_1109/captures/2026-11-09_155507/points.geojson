@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0653286,
+          37.5501624
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0001",
+        "road_name": "송정길",
+        "heading": 34.60625544547008,
+        "photo_date_raw": "2026-09-21 11:18:52",
+        "file_path": "captures/2026-11-09_155507/lat_37.550162_lon_127.065329__0001.png",
+        "requested_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0653926,
+          37.5502351
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0002",
+        "road_name": "송정길",
+        "heading": 34.60628369139579,
+        "photo_date_raw": "2026-09-21 11:18:50",
+        "file_path": "captures/2026-11-09_155507/lat_37.550235_lon_127.065393__0002.png",
+        "requested_distance_m": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.065459,
+          37.5503072
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0003",
+        "road_name": "송정길",
+        "heading": 34.606322513505916,
+        "photo_date_raw": "2026-09-21 11:18:48",
+        "file_path": "captures/2026-11-09_155507/lat_37.550307_lon_127.065459__0003.png",
+        "requested_distance_m": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0655244,
+          37.5503785
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0004",
+        "road_name": "송정길",
+        "heading": 34.60636099453137,
+        "photo_date_raw": "2026-09-21 11:18:45",
+        "file_path": "captures/2026-11-09_155507/lat_37.550379_lon_127.065524__0004.png",
+        "requested_distance_m": 30.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0656199,
+          37.5504889
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0005",
+        "road_name": "송정길",
+        "heading": 34.60641919735133,
+        "photo_date_raw": "2026-09-21 11:18:41",
+        "file_path": "captures/2026-11-09_155507/lat_37.550489_lon_127.065620__0005.png",
+        "requested_distance_m": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0656763,
+          37.5505668
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0006",
+        "road_name": "송정길",
+        "heading": 34.606458429707914,
+        "photo_date_raw": "2026-09-21 11:18:39",
+        "file_path": "captures/2026-11-09_155507/lat_37.550567_lon_127.065676__0006.png",
+        "requested_distance_m": 50.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0657362,
+          37.5506426
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0007",
+        "road_name": "송정길",
+        "heading": 34.60649720662718,
+        "photo_date_raw": "2026-09-21 11:18:37",
+        "file_path": "captures/2026-11-09_155507/lat_37.550643_lon_127.065736__0007.png",
+        "requested_distance_m": 60.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0658002,
+          37.5507144
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0008",
+        "road_name": "송정길",
+        "heading": 34.60653550279278,
+        "photo_date_raw": "2026-09-21 11:18:35",
+        "file_path": "captures/2026-11-09_155507/lat_37.550714_lon_127.065800__0008.png",
+        "requested_distance_m": 70.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0658674,
+          37.5507845
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0009",
+        "road_name": "송정길",
+        "heading": 34.60657381127612,
+        "photo_date_raw": "2026-09-21 11:18:32",
+        "file_path": "captures/2026-11-09_155507/lat_37.550784_lon_127.065867__0009.png",
+        "requested_distance_m": 80.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0659295,
+          37.5508586
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0010",
+        "road_name": "송정길",
+        "heading": 34.606612641240815,
+        "photo_date_raw": "2026-09-21 11:18:30",
+        "file_path": "captures/2026-11-09_155507/lat_37.550859_lon_127.065929__0010.png",
+        "requested_distance_m": 90.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0659842,
+          37.5509358
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0011",
+        "road_name": "송정길",
+        "heading": 34.60665091300564,
+        "photo_date_raw": "2026-09-21 11:18:28",
+        "file_path": "captures/2026-11-09_155507/lat_37.550936_lon_127.065984__0011.png",
+        "requested_distance_m": 100.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0660456,
+          37.5510087
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0012",
+        "road_name": "송정길",
+        "heading": 34.60668900875072,
+        "photo_date_raw": "2026-09-21 11:18:26",
+        "file_path": "captures/2026-11-09_155507/lat_37.551009_lon_127.066046__0012.png",
+        "requested_distance_m": 110.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0661056,
+          37.551083
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0013",
+        "road_name": "송정길",
+        "heading": 34.60672749151581,
+        "photo_date_raw": "2026-09-21 11:18:23",
+        "file_path": "captures/2026-11-09_155507/lat_37.551083_lon_127.066106__0013.png",
+        "requested_distance_m": 120.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0661598,
+          37.5511587
+        ]
+      },
+      "properties": {
+        "photo_id": "ab8f82d5_0014",
+        "road_name": "송정길",
+        "heading": 34.60676526645693,
+        "photo_date_raw": "2026-09-21 11:18:20",
+        "file_path": "captures/2026-11-09_155507/lat_37.551159_lon_127.066160__0014.png",
+        "requested_distance_m": 130.0
+      }
+    }
+  ]
+}

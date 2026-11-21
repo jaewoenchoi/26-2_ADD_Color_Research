@@ -1,0 +1,138 @@
+{
+  "version": "v2_verified_semantic_mapping",
+  "ready_for_training": true,
+  "num_classes": 15,
+  "ignore_index": 255,
+  "background_export": false,
+  "source_to_train": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14
+  },
+  "removed_class_policy": {
+    "name": "261012",
+    "action": "exclude_from_model",
+    "matching_annotations": 0,
+    "pixels_to_ignore": 0,
+    "note": "COCO category 0 is an unused group entry. PNG value 0 means background; never map it to ignore based on COCO category 0."
+  },
+  "classes": [
+    {
+      "source_id": 0,
+      "train_id": 0,
+      "name": "background",
+      "export": false,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 1,
+      "train_id": 1,
+      "name": "awning",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 2,
+      "train_id": 2,
+      "name": "balcony_terrace",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 3,
+      "train_id": 3,
+      "name": "boundary_fence",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 4,
+      "train_id": 4,
+      "name": "door_entracne",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 5,
+      "train_id": 5,
+      "name": "pedestrain_ground",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 6,
+      "train_id": 6,
+      "name": "road",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 7,
+      "train_id": 7,
+      "name": "roof",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 8,
+      "train_id": 8,
+      "name": "shading_shutter",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 9,
+      "train_id": 9,
+      "name": "signage",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 10,
+      "train_id": 10,
+      "name": "sky",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 11,
+      "train_id": 11,
+      "name": "street_infrastructure",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 12,
+      "train_id": 12,
+      "name": "vegetation",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 13,
+      "train_id": 13,
+      "name": "wall_structure",
+      "export": true,
+      "support_status": "supported"
+    },
+    {
+      "source_id": 14,
+      "train_id": 14,
+      "name": "window_glass",
+      "export": true,
+      "support_status": "supported"
+    }
+  ]
+}
